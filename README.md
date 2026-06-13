@@ -26,3 +26,30 @@
     ├── Status     : Learning | Researching | Building
 ```
 <img src="https://capsule-render.vercel.app/api?type=rect&color=ff0000&height=2&section=header" width="100%"/>
+
+## `>(sudojung㉿quantum-node)-[~/profile]`
+
+```bash
+└─$ cat about_me.txt
+
+      I am a third-semester student of Scientific Computing at the National University of
+      San Marcos (UNMSM), with an interest in cybersecurity, artificial intelligence,
+      programming, and quantum computing.
+
+      My learning and research focus is on quantum cybersecurity, with an emphasis on
+      post-quantum cryptography (PQC), quantum cryptography, and quantum key
+      distribution (QKD), including protocols such as BB84.
+
+      I am also the founder of the Quantum CyberSec Community, an initiative that aims to
+      disseminate free resources, simulations, talks, and educational projects to
+      democratize access to knowledge about cybersecurity and quantum computing in Peru.
+
+```
+
+```bash
+└─$ cat mission.txt
+
+      "Democratizing disruptive learning in cybersecurity and quantum computing"
+
+```
+<img src="https://capsule-render.vercel.app/api?type=rect&color=ff0000&height=2&section=header" width="100%"/>
