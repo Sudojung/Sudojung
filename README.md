@@ -23,6 +23,6 @@
     ├── University : National University of San Marcos
     ├── Location   : Lima, Peru
     ├── Focus      : Quantum Computing | Cybersecurity | Artificial Intelligence
-    ├── Status     : Learning  | Researching | Building
+    ├── Status     : Learning | Researching | Building
 ```
 <img src="https://capsule-render.vercel.app/api?type=rect&color=ff0000&height=2&section=header" width="100%"/>
