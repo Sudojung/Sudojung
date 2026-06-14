@@ -60,13 +60,14 @@
 
 <div align="center">
   <img align="top" height="190em"
-       src="https://github-readme-stats.vercel.app/api?username=Sudojung&show_icons=true&hide_border=false&bg_color=000000&title_color=ff0000&text_color=c0c0c0&icon_color=ff0000&border_color=b30000&custom_title=Quantum%20Node%20Statistics"/>
+       src="https://github-readme-stats.vercel.app/api?username=Sudojung&show_icons=true&hide_border=false&bg_color=000000&title_color=ff0000&text_color=c0c0c0&icon_color=ff0000&border_color=b30000&custom_title=Sudojung's%20Statistics"/>
 
   &nbsp;&nbsp;&nbsp;&nbsp;
 
   <img align="top" height="190em"
        src="https://github-readme-streak-stats.herokuapp.com/?user=Sudojung&background=000000&border=b30000&stroke=b30000&ring=ff0000&fire=ff0000&currStreakLabel=ff0000&sideLabels=c0c0c0&currStreakNum=ffffff&sideNums=ffffff&dates=666666"/>
 </div>
+
 
 ## `> ls skills/`
 ```bash
@@ -75,6 +76,8 @@
 <div align="center">
 
 <img src="https://techstack-generator.vercel.app/js-icon.svg" width="60"/> <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="60"/> <img src="https://techstack-generator.vercel.app/python-icon.svg" width="55"/> <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="80"/> <img src="https://techstack-generator.vercel.app/java-icon.svg" width="55"/> ![Skills](https://simpleskill.icons.workers.dev/svg?i=julia&theme=dark)
+
+
 
 
 
