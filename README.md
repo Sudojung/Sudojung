@@ -77,7 +77,9 @@
 
 <img src="https://techstack-generator.vercel.app/js-icon.svg" width="60"/> <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="60"/> <img src="https://techstack-generator.vercel.app/python-icon.svg" width="55"/> <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="80"/> <img src="https://techstack-generator.vercel.app/java-icon.svg" width="55"/> ![Skills](https://simpleskill.icons.workers.dev/svg?i=julia&theme=dark)
 
-
+```bash
+└─ Frameworks & Libraries
+```
 
 
 
