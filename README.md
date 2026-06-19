@@ -80,10 +80,12 @@
 ```bash
 └─ Frameworks & Libraries
 ```
+<div align="center">
 
 ```bash
 └─ Tools
 ```
+<div align="center">
 
 <div align="center">
 
