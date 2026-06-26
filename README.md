@@ -59,15 +59,21 @@
 ```
 
 <div align="center">
+
+  <img align="top" height="190em"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudojung&layout=compact&hide_border=false&bg_color=000000&title_color=ff0000&text_color=c0c0c0&border_color=b30000"/>
+
+  &nbsp;&nbsp;
+
   <img align="top" height="190em"
        src="https://github-readme-stats.vercel.app/api?username=Sudojung&show_icons=true&hide_border=false&bg_color=000000&title_color=ff0000&text_color=c0c0c0&icon_color=ff0000&border_color=b30000&custom_title=Sudojung's%20Statistics"/>
 
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
 
-  <img align="top" height="190em"
+  <img align="top" height="210em"
        src="https://github-readme-streak-stats.herokuapp.com/?user=Sudojung&background=000000&border=b30000&stroke=b30000&ring=ff0000&fire=ff0000&currStreakLabel=ff0000&sideLabels=c0c0c0&currStreakNum=ffffff&sideNums=ffffff&dates=666666"/>
-</div>
 
+</div>
 
 ## `> ls skills/`
 ```bash
@@ -88,8 +94,6 @@
 <div align="center">
 
 <div align="center">
-
-
 
 
 
